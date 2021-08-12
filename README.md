@@ -3,7 +3,7 @@
 - Clone do Whatsapp Web desenvolvido com HTML, CSS e Bootstrap 4.
 - Whatsapp Web clone powered by HTML, CSS and Bootstrap 4.
 
-![WhatsApp]()
+![WhatsApp](https://github.com/Raii-Azevedo/WhatsApp-Clone/blob/master/whatsapp.gif)
 
 
 ## Tecnologia
@@ -23,7 +23,7 @@ Aqui estão as tecnologias utilizadas nesse projeto:
 ## Links
  
   - Link of deployed application: (Heroku)
-  - [Repository] ()
+  - ![Repository] ()
 
  
 ## Versão
